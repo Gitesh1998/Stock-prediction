@@ -15,7 +15,8 @@ I created this repository to explore deep learning algorithms, specifically Arti
 ### Pre-requisite:
 - Language: python3
 - IDE: Google collab
-Google collab ide can provide python 3 and with all libraries which are needed for running above jupyter notebooks.
+
+Google collab IDE (Integrated Development Environment) can provide python 3 and with all libraries which are needed for running above jupyter notebooks.
 
 ### Contact: 
 ![https://www.linkedin.com/in/gitesh-pawar-r/](https://cdn-icons-png.flaticon.com/128/3536/3536505.png)
