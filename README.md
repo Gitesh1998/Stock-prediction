@@ -18,6 +18,8 @@ I created this repository to explore deep learning algorithms, specifically Arti
 Google collab ide can provide python 3 and with all libraries which are needed for running above jupyter notebooks.
 
 ### Contact: 
+![https://www.linkedin.com/in/gitesh-pawar-r/](https://cdn-icons-png.flaticon.com/128/3536/3536505.png)
+![giteshpawar56@gmail.com](https://cdn-icons-png.flaticon.com/128/732/732200.png)
 
 ### License: 
 Distributed under the GPL License 
